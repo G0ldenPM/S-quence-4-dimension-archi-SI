@@ -175,15 +175,15 @@
 
 1. Quelle est la différence entre une page HTML et une réponse JSON ? À qui chacune est-elle destinée ?
 
-   > _Ma réponse :_ 
+   Une page HTML affiche une interface pour un humain, une réponse json contient uniquement quelques données textuelles qui sont destinées à un programme.
 
 2. Dans la page `/horloge`, quel code s'exécute sur le **serveur** et quel code s'exécute dans le **navigateur** ?
 
-   > _Ma réponse :_ 
+   le python s'execute sur le serveur, le html dans le navigateur.
 
 3. Citez une application de votre téléphone qui, selon vous, utilise une API. Quelles données échange-t-elle ?
 
-   > _Ma réponse :_ 
+   Une application météo récupère les données météo via une api.
 
 ---
 
