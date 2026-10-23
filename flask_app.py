@@ -29,6 +29,9 @@ def accueil():
 def presentation():
     return "Je m'appelle Pierre et je suis étudiant en informatique."
 
+@app.get("/loisirs")
+def loisirs():
+    return "Mes loisirs sont les jeux vidéos, le sport et l'automobile."
 
 # ---------------------------------------------------------------
 #  Ne pas modifier : utile seulement pour lancer le site
