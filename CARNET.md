@@ -35,7 +35,7 @@
 
 3. Que se passe-t-il si deux fonctions portent le même nom dans `flask_app.py` ? (Indice : essayez, puis lisez l'Error log.)
 
-   > _Ma réponse :_ 
+   La page ne répond plus et affiche un message d'erreur : "Something went wrong :-("
 
 ---
 
