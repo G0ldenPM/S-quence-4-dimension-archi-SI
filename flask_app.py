@@ -36,6 +36,7 @@ def presentation():
         <li>Le sport</li>
         <li>Le code</li>
     </ul>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="100">
     """
 
 @app.get("/loisirs")
