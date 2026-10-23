@@ -155,19 +155,19 @@
 
 1. Citez trois informations que le serveur connaît sur vous, sans que vous ayez rien rempli.
 
-   > _Ma réponse :_ 
+   ip, navigateur, langue
 
 2. À quoi peut servir l'en-tête `Accept-Language` pour un site comme Wikipédia ?
 
-   > _Ma réponse :_ 
+   Cela sert à afficher la page dans la langue de l'utilisateur.
 
 3. Dans l'Access log, retrouvez une requête qui a reçu un code `404`. Quelle page était demandée ?
 
-   > _Ma réponse :_ 
+   [> _Ma réponse :_ ](https://goldenpm.pythonanywhere.com/)
 
 4. Après cet exercice, que pensez-vous de la notion de « navigation anonyme » ?
 
-   > _Ma réponse :_ 
+   Cet exercice montre que le navigateur peut récupérer énormément d'information sur l'utilisateur.
 
 ---
 
